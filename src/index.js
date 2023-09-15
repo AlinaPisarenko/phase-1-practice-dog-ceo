@@ -76,21 +76,7 @@ dropDown.addEventListener('change', (e) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// SOLUTION TO FETCH DATA AND GET THE BREEDS WITH MULTIPLE WORDS IN THE NAME
 
 // fetch(breedUrl)
 //     .then((response) => response.json())
